@@ -4,114 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/yasin/US013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/yasin/US014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AbbasPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AhmetPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AlparslanPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AslanPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/EyupPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/OrhanPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TarikPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TulayPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/YasinPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/muhammedPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/abbas/US009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/abbas/US010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US003/TC_001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US003/TC_002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US003/TC_003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US003/TC_004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US003/TC_005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ahmet/US004/TC_008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_07_Deneme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_07_KısaKod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_08_Deneme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_08_KısaKod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US017/TC01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US017/TC02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US017/TC03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US017/TC04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US017/TC05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US018/TC01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US018/TC02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US018/TC03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/eyup/US018/TC04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US005_001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US005_002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US005_003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US005_004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US005_005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/muhammed/US006_011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/orhan/US_015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/orhan/US_016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_019/US_019_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_019/US_019_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_020.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_020/US_020_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_020/US_020_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tulay/US_001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tulay/US_002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/CrossDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeClassAfterClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeMethodAfterMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseReport.class" beforeDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,6 +32,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GCysEscelkmCX8Rx5NDZuQt24d" />
   <component name="ProjectViewState">
@@ -156,28 +60,7 @@
       <recent name="tests.orhan.US015" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US_019.isimVeEpostaTesti">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US011" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.alparslan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.alparslan" />
-      <option name="MAIN_CLASS_NAME" value="tests.alparslan.US011" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -185,16 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_002" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_002" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -202,25 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_002.test001" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_002" />
-      <option name="METHOD_NAME" value="test001" />
-      <option name="TEST_OBJECT" value="METHOD" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_019.isimVeEpostaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+<<
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -228,27 +107,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tarik" />
-      <option name="MAIN_CLASS_NAME" value="tests.tarik.US_019" />
-      <option name="METHOD_NAME" value="isimVeEpostaTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_020.kullaniciBilgisiVeYorumIcerigiTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.tarik.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.tarik" />
-      <option name="MAIN_CLASS_NAME" value="tests.tarik.US_020" />
-      <option name="METHOD_NAME" value="kullaniciBilgisiVeYorumIcerigiTesti" />
+
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -258,9 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.US_019.isimVeEpostaTesti" />
-        <item itemvalue="TestNG.US_020.kullaniciBilgisiVeYorumIcerigiTesti" />
-        <item itemvalue="TestNG.US011" />
+
         <item itemvalue="TestNG.US_002" />
         <item itemvalue="TestNG.US_002.test001" />
       </list>
