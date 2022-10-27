@@ -5,14 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e62f4b8c-c805-4245-8197-9ee555e65723" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/YasinPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/YasinPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US011_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/alparslan/US012_TC004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_07_Deneme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/aslan/US_08_Deneme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_019/US_019_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_019/US_019_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_020/US_020_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_020/US_020_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/tarik/US_021/US_021_TC006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_13/US_13_TC007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/yasin/US_14/US_14_TC005.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Giq6xZU91VnkUHOW1iolGSeRkL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e62f4b8c-c805-4245-8197-9ee555e65723" name="Changes" comment="" />
+      <created>1666881584821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666881584821</updated>
+    </task>
     <servers />
   </component>
 </project>
