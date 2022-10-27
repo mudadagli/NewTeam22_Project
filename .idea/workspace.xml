@@ -4,38 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85052703-a172-4718-907f-2a7ec10dac3f" name="Changes" comment="">
+    <list default="true" id="e62f4b8c-c805-4245-8197-9ee555e65723" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/yasin/US013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/yasin/US014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/yasin/US014.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="RunManager">
-    <configuration name="US_015.testEntry15" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.orhan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.orhan" />
-      <option name="MAIN_CLASS_NAME" value="tests.orhan.US_015" />
-      <option name="METHOD_NAME" value="testEntry15" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.US_015.testEntry15" />
-      </list>
-    </recent_temporary>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="TaskManager">
     <servers />
