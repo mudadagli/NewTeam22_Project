@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="v1" />
+    <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="v1">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_05__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_19_26__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_19_26__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +37,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GCysEscelkmCX8Rx5NDZuQt24d" />
   <component name="ProjectViewState">
@@ -53,28 +65,17 @@
       <recent name="tests.orhan.US015" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US_002">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US009" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.US006_011">
+    <configuration name="US005_001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.abbas.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.abbas" />
-      <option name="MAIN_CLASS_NAME" value="tests.abbas.US009" />
+      <option name="PACKAGE_NAME" value="tests.muhammed" />
+      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US005_001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -82,16 +83,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="US006_001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_001" />
+      <option name="PACKAGE_NAME" value="tests.muhammed" />
+      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US006_001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US006_011" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team22_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.muhammed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.muhammed" />
+      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US006_011" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,30 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_07_KısaKod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.aslan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.aslan" />
-      <option name="MAIN_CLASS_NAME" value="tests.aslan.US_07_KısaKod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.US006_011" />
+        <item itemvalue="TestNG.US006_001" />
+        <item itemvalue="TestNG.US005_001" />
         <item itemvalue="TestNG.US_002" />
         <item itemvalue="TestNG.US_002.test001" />
-        <item itemvalue="TestNG.US009" />
-        <item itemvalue="TestNG.US_001" />
-        <item itemvalue="TestNG.US_07_KısaKod" />
       </list>
     </recent_temporary>
   </component>
