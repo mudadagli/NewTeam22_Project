@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+
+>>>>>>> main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,6 +37,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GCysEscelkmCX8Rx5NDZuQt24d" />
   <component name="ProjectViewState">
@@ -55,28 +65,7 @@
       <recent name="tests.orhan.US015" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US_019.isimVeEpostaTesti">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US011" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.alparslan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.alparslan" />
-      <option name="MAIN_CLASS_NAME" value="tests.alparslan.US011" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -84,6 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="US013.testCouponKoduVerilmeli" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team22_Project" />
       <extension name="coverage">
@@ -103,15 +93,17 @@
       </method>
     </configuration>
     <configuration name="US_002" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+
+>>>>>>> main
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_002" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -119,25 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="US_019.isimVeEpostaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.tarik.*" />
+          <option name="PATTERN" value="tests.muhammed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tarik" />
-      <option name="MAIN_CLASS_NAME" value="tests.tarik.US_019" />
-      <option name="METHOD_NAME" value="isimVeEpostaTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_020.kullaniciBilgisiVeYorumIcerigiTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+<<
+>>>>>>> main
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -145,9 +138,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.tarik" />
-      <option name="MAIN_CLASS_NAME" value="tests.tarik.US_020" />
-      <option name="METHOD_NAME" value="kullaniciBilgisiVeYorumIcerigiTesti" />
+
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,10 +155,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="TestNG.US_019.isimVeEpostaTesti" />
         <item itemvalue="TestNG.US013.testCouponKoduVerilmeli" />
         <item itemvalue="TestNG.US_020.kullaniciBilgisiVeYorumIcerigiTesti" />
         <item itemvalue="TestNG.US011" />
+=======
+
+>>>>>>> main
         <item itemvalue="TestNG.US_002" />
       </list>
     </recent_temporary>
