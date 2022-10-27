@@ -73,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </project>
-<<<<<<< HEAD
+
     <configuration name="US013.testCouponKoduVerilmeli" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team22_Project" />
       <extension name="coverage">
@@ -129,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<
+
 >>>>>>> main
       <module name="Team22_Project" />
       <extension name="coverage">
@@ -155,7 +155,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
+
         <item itemvalue="TestNG.US_019.isimVeEpostaTesti" />
         <item itemvalue="TestNG.US013.testCouponKoduVerilmeli" />
         <item itemvalue="TestNG.US_020.kullaniciBilgisiVeYorumIcerigiTesti" />
