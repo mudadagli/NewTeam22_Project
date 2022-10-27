@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="v1">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_05__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_12_13__Changes_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_19_26__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2022_19_26__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +60,15 @@
       <recent name="tests.orhan.US015" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.US006_011">
-    <configuration name="US005_001" type="TestNG" temporary="true" nameIsGenerated="true">
+
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +76,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.muhammed" />
-      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US005_001" />
+
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -83,7 +84,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US006_001" type="TestNG" temporary="true" nameIsGenerated="true">
+
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -91,60 +92,29 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.muhammed" />
-      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US006_001" />
-      <option name="TEST_OBJECT" value="CLASS" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US006_011" type="TestNG" temporary="true" nameIsGenerated="true">
+<<
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.muhammed.*" />
+          <option name="PATTERN" value="tests.tarik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.muhammed" />
-      <option name="MAIN_CLASS_NAME" value="tests.muhammed.US006_011" />
-      <option name="TEST_OBJECT" value="CLASS" />
+
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_002" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_002" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US_002.test001" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team22_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.tulay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.tulay" />
-      <option name="MAIN_CLASS_NAME" value="tests.tulay.US_002" />
-      <option name="METHOD_NAME" value="test001" />
+
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,9 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.US006_011" />
-        <item itemvalue="TestNG.US006_001" />
-        <item itemvalue="TestNG.US005_001" />
+
         <item itemvalue="TestNG.US_002" />
         <item itemvalue="TestNG.US_002.test001" />
       </list>
