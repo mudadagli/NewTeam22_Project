@@ -72,7 +72,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
+    </project>
 <<<<<<< HEAD
     <configuration name="US013.testCouponKoduVerilmeli" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team22_Project" />
@@ -111,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
+
     <configuration name="US_019.isimVeEpostaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
 =======
 
