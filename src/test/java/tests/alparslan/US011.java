@@ -16,7 +16,6 @@ import java.util.Random;
 
 public class US011 extends TestBaseReport {
 
-
     AlparslanPage alparslanPage;
     WebDriverWait wait;
     Random rnd;
