@@ -194,5 +194,4 @@ public class OrhanPage {
     @FindBy(xpath = "//*[contains(text(),'Customer Successfully Saved.')]")
     public WebElement customerSuccessllyScriptText;
 
-
 }

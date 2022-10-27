@@ -172,8 +172,6 @@ public class US_016 extends TestBaseReport {
         Assert.assertEquals(orhanPage.customerSuccessllyScriptText.getText(),expectedText);
         extentTest.pass("'Customer Successfully Saved.' yazisi goruldu");
 
-
     }
-
 
 }
