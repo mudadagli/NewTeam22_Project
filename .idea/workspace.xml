@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="4625fba0-ff4a-40b8-a457-e2f6afc08e7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+
+>>>>>>> main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="US013.testCouponKoduVerilmeli" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team22_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.yasin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.yasin" />
+      <option name="MAIN_CLASS_NAME" value="tests.yasin.US013" />
+      <option name="METHOD_NAME" value="testCouponKoduVerilmeli" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="US_002" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
 
+>>>>>>> main
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +111,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="US_019.isimVeEpostaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
 
       <module name="Team22_Project" />
       <extension name="coverage">
@@ -100,6 +130,7 @@
       </method>
     </configuration>
 <<
+>>>>>>> main
       <module name="Team22_Project" />
       <extension name="coverage">
         <pattern>
@@ -124,9 +155,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="TestNG.US_019.isimVeEpostaTesti" />
+        <item itemvalue="TestNG.US013.testCouponKoduVerilmeli" />
+        <item itemvalue="TestNG.US_020.kullaniciBilgisiVeYorumIcerigiTesti" />
+        <item itemvalue="TestNG.US011" />
+=======
 
+>>>>>>> main
         <item itemvalue="TestNG.US_002" />
-        <item itemvalue="TestNG.US_002.test001" />
       </list>
     </recent_temporary>
   </component>
